@@ -114,6 +114,10 @@ Generates labels ready for immediate printing.
 
 <br/>
 
+### Labels Genreated by Python
+<img width="1007" height="515" alt="image" src="https://github.com/user-attachments/assets/8f9d3db8-1506-4fd8-9a72-90ede42b7461" />
+
+
 ### Libraries
 
 * Pandas
