@@ -87,25 +87,26 @@ Generates labels ready for immediate printing.
 
 ## 🔄 Workflow Transformation: PDF to Excel
 
-<p align="center">
-  <ins><b>Visual Data Comparison</b></ins>
-</p>
-
-<table border="0" cellpadding="5" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="48%" valign="top" style="border: none;">
+    <td width="42%" valign="top" style="border: none; padding-right: 15px;">
       <div align="center">
         <kbd><b>📄 Source PDF Orders</b></kbd>
         <p></p>
-        <img src="https://github.com/user-attachments/assets/ee6d4995-4a25-479f-b976-5b1754977937" alt="Source PDF Orders" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 20px rgba(0,0,0,0.25); border: 1px solid #30363d; margin-top: 10px;">
+        <img src="https://github.com/user-attachments/assets/ee6d4995-4a25-479f-b976-5b1754977937" alt="Source PDF Orders" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 20px rgba(0,0,0,0.25); border: 1px solid #30363d; margin-top: 5px;">
       </div>
     </td>
-    <td width="4%" style="border: none;"></td>
-    <td width="48%" valign="top" style="border: none;">
+    <td width="58%" valign="top" style="border: none; padding-left: 15px;">
       <div align="center">
-        <kbd><b>📊 Automated Excel Output</b></kbd>
+        <kbd><b>📊 Processed Master Data</b></kbd>
         <p></p>
-        <img src="https://github.com/user-attachments/assets/73c36f87-69d3-440c-9ec6-b2738a4cfbd2" alt="Automated Excel Output" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 20px rgba(0,0,0,0.25); border: 1px solid #30363d; margin-top: 10px;">
+        <img src="https://github.com/user-attachments/assets/b5b7bba9-b5dc-4b47-95cc-e9dc9029b335" alt="Automated Excel Output 1" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 20px rgba(0,0,0,0.25); border: 1px solid #30363d; margin-top: 5px;">
+      </div>
+      <br/><br/>
+      <div align="center">
+        <kbd><b>📈 Dynamic Schedule View</b></kbd>
+        <p></p>
+        <img src="https://github.com/user-attachments/assets/73c36f87-69d3-440c-9ec6-b2738a4cfbd2" alt="Automated Excel Output 2" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 20px rgba(0,0,0,0.25); border: 1px solid #30363d; margin-top: 5px;">
       </div>
     </td>
   </tr>
