@@ -83,37 +83,25 @@ Generates labels ready for immediate printing.
 
 ## Workflow
 
-Customer Order PDFs
+<img width="1536" height="1024" alt="ChatGPT Image Jun 10, 2026, 09_06_19 AM" src="https://github.com/user-attachments/assets/91648e70-90fe-4365-97ca-327c01cd60f7" />
 
-↓
+## Comparison: Orders in PDF vs. Excel Output
 
-Python Processing Engine
+<table>
+  <tr>
+    <th width="50%">Orders in PDF</th>
+    <th width="50%">Excel Output</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/ee6d4995-4a25-479f-b976-5b1754977937" alt="Christina Zhou_ _29997_Page_2" style="width:100%;">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/b5b7bba9-b5dc-4b47-95cc-e9dc9029b335" alt="image" style="width:100%;">
+    </td>
+  </tr>
+</table>
 
-↓
-
-Data Extraction
-
-↓
-
-Data Validation
-
-↓
-
-Label Generation
-
-↓
-
-Print Ready PDF Labels
-
-↓
-
-Packaging & Shipping
-
----
-
-## Technologies Used
-
-### Programming
 
 * Python
 
@@ -204,40 +192,6 @@ Automate product labeling processes.
 * Database integration
 * Dashboard reporting
 * Multi-format document support
-
----
-
-## Repository Structure
-
-pdf-order-label-automation/
-
-├── README.md
-
-├── source_code/
-
-│ └── generate_labels.py
-
-├── sample_files/
-
-│ └── sample_order.pdf
-
-├── output/
-
-│ └── generated_labels.pdf
-
-├── screenshots/
-
-│ ├── workflow.png
-
-│ ├── input_pdf.png
-
-│ ├── extracted_data.png
-
-│ ├── generated_labels.png
-
-│ └── output_file.png
-
-└── requirements.txt
 
 ---
 
