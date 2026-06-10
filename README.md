@@ -85,24 +85,34 @@ Generates labels ready for immediate printing.
 
 <img width="1536" height="1024" alt="ChatGPT Image Jun 10, 2026, 09_06_19 AM" src="https://github.com/user-attachments/assets/91648e70-90fe-4365-97ca-327c01cd60f7" />
 
-## Comparison: Orders in PDF vs. Excel Output
+## 🔄 Workflow Transformation: PDF to Excel
 
-<table>
+<p align="center">
+  <ins><b>Visual Data Comparison</b></ins>
+</p>
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-    <th width="40%">Orders in PDF</th>
-    <th width="60%">Excel Output</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://github.com/user-attachments/assets/ee6d4995-4a25-479f-b976-5b1754977937" alt="Christina Zhou_ _29997_Page_2" width="100%">
+    <td width="42%" valign="top" style="border: none;">
+      <div align="center">
+        <kbd><b>📄 Source PDF Orders</b></kbd>
+        <p></p>
+        <img src="https://github.com/user-attachments/assets/ee6d4995-4a25-479f-b976-5b1754977937" alt="Source PDF Orders" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 20px rgba(0,0,0,0.25); border: 1px solid #30363d; margin-top: 10px;">
+      </div>
     </td>
-    <td valign="top">
-      <img src="https://github.com/user-attachments/assets/b5b7bba9-b5dc-4b47-95cc-e9dc9029b335" alt="image" width="100%">
+    <td width="3%" style="border: none;"></td>
+    <td width="55%" valign="top" style="border: none;">
+      <div align="center">
+        <kbd><b>📊 Automated Excel Output</b></kbd>
+        <p></p>
+        <img src="https://github.com/user-attachments/assets/b5b7bba9-b5dc-4b47-95cc-e9dc9029b335" alt="Automated Excel Output" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 20px rgba(0,0,0,0.25); border: 1px solid #30363d; margin-top: 10px;">
+      </div>
     </td>
   </tr>
 </table>
 
-* Python
+<br/>
+
 
 ### Libraries
 
