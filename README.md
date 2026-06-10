@@ -106,7 +106,7 @@ Generates labels ready for immediate printing.
       <div align="center">
         <kbd><b>📈 Dynamic Schedule View</b></kbd>
         <p></p>
-        <img src="https://github.com/user-attachments/assets/73c36f87-69d3-440c-9ec6-b2738a4cfbd2" alt="Automated Excel Output 2" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 20px rgba(0,0,0,0.25); border: 1px solid #30363d; margin-top: 5px;">
+        <img src="https://github.com/user-attachments/assets/7b41f958-f09a-45b2-ac52-ea7e454e9275" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 20px rgba(0,0,0,0.25); border: 1px solid #30363d; margin-top: 5px;">
       </div>
     </td>
   </tr>
