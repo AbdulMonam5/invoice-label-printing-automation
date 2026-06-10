@@ -89,19 +89,18 @@ Generates labels ready for immediate printing.
 
 <table>
   <tr>
-    <th width="50%">Orders in PDF</th>
-    <th width="50%">Excel Output</th>
+    <th width="40%">Orders in PDF</th>
+    <th width="60%">Excel Output</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/ee6d4995-4a25-479f-b976-5b1754977937" alt="Christina Zhou_ _29997_Page_2" style="width:100%;">
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/ee6d4995-4a25-479f-b976-5b1754977937" alt="Christina Zhou_ _29997_Page_2" width="100%">
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/b5b7bba9-b5dc-4b47-95cc-e9dc9029b335" alt="image" style="width:100%;">
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/b5b7bba9-b5dc-4b47-95cc-e9dc9029b335" alt="image" width="100%">
     </td>
   </tr>
 </table>
-
 
 * Python
 
